@@ -1,3 +1,9 @@
 {
-  "photos": []
+  "photos": [
+    {
+      "image": "/assets/gallery/img_5734.jpeg",
+      "caption": "Faceplate",
+      "category": "Ethernet Jacks"
+    }
+  ]
 }
