@@ -4,6 +4,11 @@
       "image": "/assets/gallery/img_5734.jpeg",
       "caption": "Faceplate",
       "category": "Ethernet Jacks"
+    },
+    {
+      "category": "Wi-Fi Access Points",
+      "caption": "In-Ceiling Access Point",
+      "image": "/assets/gallery/img_3378.jpeg"
     }
   ]
 }
